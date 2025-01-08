@@ -127,5 +127,3 @@ Quadrature Phase Shift Keying (QPSK) with Direct Sequence Spread Spectrum (DSSS)
 
 ## **Acknowledgments**
 This document is part of Project Hermes, inspired by the challenges of interstellar communication and ESA’s vision for deep-space exploration.
-
-For additional information, contact: [Your Name/Email]
